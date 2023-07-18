@@ -10,4 +10,5 @@ Currently, my skillset contains:
 Software, that i use in development:
 [![My Software](https://skillicons.dev/icons?i=idea,vscode,docker,postman)](https://skillicons.dev)
 
-My LinkedIn:[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/janiskaveckis/) 
+My LinkedIn:
+[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/janiskaveckis/) 
