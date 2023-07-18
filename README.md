@@ -5,7 +5,7 @@ I am an ardent software developer from Latvia, I've had experience with coding p
 I'm always moving towards the intention to becoming a better software developer, willing to learn and expand my skillset.
 
 Currently, my skillset contains:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,maven,gradle,postgres,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,maven,gradle,postgres,git)](https://skillicons.dev)
 
 Software, that i use in development:
 
