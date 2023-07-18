@@ -1,22 +1,13 @@
-### Hi there! 👋
+### Hi there!👋 My name is Jānis Kaveckis!
 
-My name is Jānis Kaveckis, I'm an ardent software developer from Latvia.
+I am an ardent software developer from Latvia, I've had experience with coding projects in backend development.
+
 I'm always moving towards the intention to becoming a better software developer, willing to learn and expand my skillset.
 
 Currently, my skillset contains:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,maven,gradle,postgres,git)](https://skillicons.dev)
 
-<!--
-**probzyg/probzyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software, that i use in development:
+[![My Software](https://skillicons.dev/icons?i=idea,vscode,docker,postman)](https://skillicons.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My LinkedIn:[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/janiskaveckis/) 
