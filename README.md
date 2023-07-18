@@ -6,7 +6,7 @@ I'm always moving towards the intention to becoming a better software developer,
 
 Currently, my skillset contains:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,maven,gradle,postgres,git,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,maven,gradle,postgres,git)](https://skillicons.dev)
 
 Software, that i use in development:
 
