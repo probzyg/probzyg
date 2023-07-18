@@ -8,7 +8,9 @@ Currently, my skillset contains:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,maven,gradle,postgres,git)](https://skillicons.dev)
 
 Software, that i use in development:
+
 [![My Software](https://skillicons.dev/icons?i=idea,vscode,docker,postman)](https://skillicons.dev)
 
 My LinkedIn:
+
 [![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/janiskaveckis/) 
