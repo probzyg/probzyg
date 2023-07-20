@@ -4,7 +4,7 @@ I am an ardent Software Developer from Latvia, I've had the most experience with
 
 I'm always moving towards the intention to becoming a better FullStack Software Developer, willing to learn and expand my skillset.
 
-🧰 Currently, my toolbox contains:
+Currently, my skillset contains:
 
 [![Toolbox](https://skillicons.dev/icons?i=java,spring,js,nodejs,maven,gradle,postgres,git)](https://skillicons.dev)
 
