@@ -1,8 +1,8 @@
 ### Hi there!👋 My name is Jānis Kaveckis!
 
-I am an ardent software developer from Latvia, I've had experience with coding projects in backend development.
+I am an ardent Software Developer from Latvia, I've had the most experience with Backend projects, and some experience with Frontend projects.
 
-I'm always moving towards the intention to becoming a better software developer, willing to learn and expand my skillset.
+I'm always moving towards the intention to becoming a better FullStack Software Developer, willing to learn and expand my skillset.
 
 Currently, my skillset contains:
 
