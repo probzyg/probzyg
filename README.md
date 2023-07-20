@@ -1,6 +1,6 @@
 ### Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Jānis Kaveckis!
 
-I am an ardent Software Developer from Latvia, I've had the most experience with Backend projects, and some experience with Frontend projects.
+I am an ardent Software Developer from Latvia, I've had the most experience with Backend projects, also some experience with Frontend projects.
 
 I'm always moving towards the intention to becoming a better FullStack Software Developer, willing to learn and expand my skillset.
 
