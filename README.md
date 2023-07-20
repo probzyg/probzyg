@@ -15,3 +15,6 @@ Software, that i use in development:
 My LinkedIn:
 
 [![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/janiskaveckis/) 
+
+My best project:
+[Flight Planner](https://github.com/probzyg/flight-planner)
