@@ -1,4 +1,4 @@
-### Hi there!👋 My name is Jānis Kaveckis!
+### Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Jānis Kaveckis!
 
 I am an ardent Software Developer from Latvia, I've had the most experience with Backend projects, and some experience with Frontend projects.
 
