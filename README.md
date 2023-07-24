@@ -19,7 +19,5 @@ My LinkedIn:
 My last three projects:
 
 [Flight planner](https://github.com/probzyg/flight-planner)
-
 [Rock-Paper-Scissors-Lizard-Spock game](https://github.com/probzyg/r-p-s-l-sp)
-
 [Homeworks](https://github.com/probzyg/homeworks)
