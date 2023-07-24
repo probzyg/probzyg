@@ -6,7 +6,7 @@ I'm always moving towards the intention to becoming a better FullStack Software 
 
 Currently, my skillset contains:
 
-[![Toolbox](https://skillicons.dev/icons?i=java,spring,js,nodejs,maven,gradle,postgres,git)](https://skillicons.dev)
+[![Toolbox](https://skillicons.dev/icons?i=java,spring,js,nodejs,maven,gradle,postgres,git,sql)](https://skillicons.dev)
 
 Software, that i use in development:
 
