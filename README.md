@@ -28,6 +28,7 @@ My last three projects:
 
 ## &#x1f4c8; My GitHub Stats
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=probzyg&theme=dark)](https://github.com/probzyg/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probzyg&theme=dark)](https://github.com/probzyg/github-readme-stats)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=probzyg&theme=dark)](https://github.com/probzyg/github-readme-stats)
