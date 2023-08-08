@@ -24,4 +24,4 @@ My last three projects:
 
 > [Rock-Paper-Scissors-Lizard-Spock game](https://github.com/probzyg/r-p-s-l-sp)
 
-> [Homeworks](https://github.com/probzyg/homeworks)
+> [Hangman](https://github.com/probzyg/hangman)
