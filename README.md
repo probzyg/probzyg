@@ -25,3 +25,9 @@ My last three projects:
 > [Rock-Paper-Scissors-Lizard-Spock game](https://github.com/probzyg/r-p-s-l-sp)
 
 > [Hangman](https://github.com/probzyg/hangman)
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probzyg&theme=dark)](https://github.com/probzyg/github-readme-stats)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=probzyg&theme=dark)](https://github.com/probzyg/github-readme-stats)
