@@ -18,13 +18,15 @@ My LinkedIn:
 
 [![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/janiskaveckis/) 
 
-My last three projects:
+My last projects:
 
 > [Flight planner](https://github.com/probzyg/flight-planner)
 
 > [Rock-Paper-Scissors-Lizard-Spock game](https://github.com/probzyg/r-p-s-l-sp)
 
 > [Hangman](https://github.com/probzyg/hangman)
+
+>[Front-End](https://github.com/probzyg/frontend) 
 
 ## &#x1f4c8; My GitHub Stats
 
