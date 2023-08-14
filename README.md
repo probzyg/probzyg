@@ -22,8 +22,6 @@ My last projects:
 
 > [Flight planner](https://github.com/probzyg/flight-planner)
 
-> [Rock-Paper-Scissors-Lizard-Spock game](https://github.com/probzyg/r-p-s-l-sp)
-
 > [Hangman](https://github.com/probzyg/hangman)
 
 >[Front-End](https://github.com/probzyg/frontend) 
