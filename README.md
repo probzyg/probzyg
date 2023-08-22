@@ -22,9 +22,9 @@ My last projects:
 
 > [Flight planner](https://github.com/probzyg/flight-planner)
 
-> [Hangman](https://github.com/probzyg/hangman)
+> [Bookstore](https://github.com/probzyg/bookstore)
 
->[Front-End](https://github.com/probzyg/frontend) 
+> [Front-End](https://github.com/probzyg/frontend) 
 
 ## &#x1f4c8; My GitHub Stats
 
