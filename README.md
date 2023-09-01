@@ -6,7 +6,7 @@ I'm always moving towards the intention to becoming a better FullStack Software 
 
 Currently, my skillset contains:
 
-[![Toolbox](https://skillicons.dev/icons?i=java,spring,hibernate,postgres,html,css,js,react,nextjs,nodejs,maven,gradle,git&perline=6)](https://skillicons.dev)
+[![Toolbox](https://skillicons.dev/icons?i=java,spring,hibernate,postgres,html,css,js,react,nextjs,nodejs,ts,maven,gradle,git&perline=6)](https://skillicons.dev)
 
 Also, i have worked with JPA, JDBC.
 
