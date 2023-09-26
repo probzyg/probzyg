@@ -2,15 +2,15 @@
 
 I am an ardent Software Developer from Latvia, I've had the most experience with Backend projects, also some experience with Frontend projects.
 
-I'm always moving towards the intention to becoming a better FullStack Software Developer, willing to learn and expand my skillset.
+I'm always moving towards the intention of becoming a better FullStack Software Developer, willing to learn and expand my skill set.
 
 Currently, my skillset contains:
 
 [![Toolbox](https://skillicons.dev/icons?i=java,spring,postgres,html,css,js,react,nextjs,nodejs,ts,hibernate,maven,gradle,git&perline=5)](https://skillicons.dev)
 
-Also, i have worked with JPA, JDBC.
+Also, I have worked with JPA and JDBC.
 
-Software, that i use in development:
+Software, that I use in development:
 
 [![My Software](https://skillicons.dev/icons?i=idea,vscode,docker,postman)](https://skillicons.dev)
 
