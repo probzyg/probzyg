@@ -6,13 +6,13 @@ I'm always moving towards the intention of becoming a better FullStack Software 
 
 Currently, my skillset contains:
 
-[![Toolbox](https://skillicons.dev/icons?i=java,spring,postgres,html,css,js,react,nextjs,nodejs,ts,hibernate,maven,gradle,git,vercel&perline=5)](https://skillicons.dev)
+[![Toolbox](https://skillicons.dev/icons?i=java,spring,postgres,html,css,js,react,nextjs,nodejs,ts,nestjs,regex,hibernate,prisma,maven,gradle,git,gitlab,vercel&perline=5)](https://skillicons.dev)
 
 Also, I have worked with JPA and JDBC.
 
 Software, that I use in development:
 
-[![My Software](https://skillicons.dev/icons?i=idea,vscode,docker,postman)](https://skillicons.dev)
+[![My Software](https://skillicons.dev/icons?i=idea,vscode,docker,postman,powershell)](https://skillicons.dev)
 
 My LinkedIn:
 
